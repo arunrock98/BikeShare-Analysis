@@ -11,10 +11,11 @@ Capital Bikeshare is metro DC's bikeshare system, with more than 4,300 bikes ava
 *	Analyse the impact of Covid situation
 *	Using Machine Learning Models predicted the bike share details with respect to weather condition
 *	Implemented End to End data analysis model along with the app(flask)
-*	Analysed the Timeseries data with facebook Prophet 
+*	Analyse the Timeseries data with facebook Prophet 
 
 * created the Data Analysis presentation for the Bike share analysis
 
 * created the Flask app for the bike share prediction
+  
 
 
